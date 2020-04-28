@@ -1,0 +1,8 @@
+pip install SpeechRecognition pip install pyaudio
+Alternate way (for SpeechRecognition)
+1. pip install pipwin
+2. pipwin install pyaudio
+
+pip install lxml(for parsing data)
+
+pip install pygame
